@@ -1,5 +1,8 @@
 # VF Progression
 
+**10/30/18 update:**
+I found this very interesting [talk](https://www.youtube.com/watch?v=ARrbbviGvjc) describing this team's project which allows for the creation of standalone R/Shiny apps. This looks like a great way to make this project as easily accessible as any other standalone application like Word or Skype.
+
 ## Description
 This is a (very) rough start to a program aimed at providing a free, open-source means to perform trend-based visual field analysis to monitor patients who have glaucoma or who are suspected to have the possibility to develop glaucoma.
 
